@@ -1,7 +1,7 @@
-﻿levelType,code,catalogType,name,description,sourceLink
-CATEGORY,Street Lighting,PRODUCT,Street Lighting,Category code for Street Lighting,http://lighttree.com/Street Lighting
-CATEGORY,Pedestrian Lighting,PRODUCT,Pedestrian Lighting,Category code for Pedestrian Lighting,http://lighttree.com/Pedestrian Lighting
-CATEGORY,Traffic Signal Poles,PRODUCT,Traffic Signal Poles,Category code for Traffic Signal Poles,http://lighttree.com/Traffic Signal Poles
-CATEGORY,Controls,PRODUCT,Controls,Category code for Controls,http://lighttree.com/Controls
-CATEGORY,Downlights,PRODUCT,Downlights,Category code for Downlights,http://lighttree.com/Downlights
-CATEGORY,Retrofit Downlights,PRODUCT,Retrofit Downlights,Category code for Retrofit Downlights,http://lighttree.com/Retrofit Downlights
+﻿levelType;code;catalogType;name;description
+CATEGORY;Street Lighting;PRODUCT;Street Lighting;Category code for Street Lighting
+CATEGORY;Pedestrian Lighting;PRODUCT;Pedestrian Lighting;Category code for Pedestrian Lighting
+CATEGORY;Traffic Signal Poles;PRODUCT;Traffic Signal Poles;Category code for Traffic Signal Poles
+CATEGORY;Controls;PRODUCT;Controls;Category code for Controls
+CATEGORY;Downlights;PRODUCT;Downlights;Category code for Downlights
+CATEGORY;Retrofit Downlights;PRODUCT;Retrofit Downlights;Category code for Retrofit Downlights
